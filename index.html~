@@ -6,14 +6,14 @@
   <meta name="description"           content="Suzie Lant">
   <meta name="viewport"              content="width=device-width,initial-scale=1">
 
-  <title>The Lant Family</title>
+  <title>Suzie's Future Homepage</title>
 
   <link rel="stylesheet" href="http://fast.fonts.net/cssapi/4bd8acc8-06ab-4ad1-be40-537258921064.css"/>
   <link rel="stylesheet" href="assets/css/style.css">
 
-  <meta property="og:title"     content="Lant Family">
-  <meta property="og:url"       content="http://lant.co/">
-  <meta property="og:site_name" content="Lant Family">
+  <meta property="og:title"     content="Suzie Lant - Description">
+  <meta property="og:url"       content="http://suzie.lant.co/">
+  <meta property="og:site_name" content="Suzie Lant - Description">
   <meta property="og:type"      content="website">
 
   <link rel="shortcut icon" href="/assets/favicons/favicon16.png">
@@ -21,9 +21,9 @@
 </head>
 <body>
   <main>
-    <h1>The Lants:</h1>
+    <h1>Suzie Lant</h1>
     <ul>
-      <li><b href="caspar.lant.co">Caspar</b>/li>
+      <li><b>bio</b>email this to me</li>
       <li><b>email</b><a href="mailto:caspar@nyu.edu">caspar@nyu.edu</a></li>
 
     </ul>
